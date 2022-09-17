@@ -1,2 +1,0 @@
-# BagusAplKotlin
-Aplikasi Kotlin Sederhana
